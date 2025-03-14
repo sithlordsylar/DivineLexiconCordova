@@ -1,6 +1,0 @@
-buildscript {
-    dependencies {
-        // Force the Android Gradle plugin version to 4.2.0
-        classpath 'com.android.tools.build:gradle:4.2.0'
-    }
-}
