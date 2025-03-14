@@ -14,5 +14,5 @@ This divine translation book was originally created by Alphone Ze Abdul Kwek Qui
     <content src="index.html" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
-
+<preference name="GradlePluginVersion" value="4.2.0" />
 </widget>
